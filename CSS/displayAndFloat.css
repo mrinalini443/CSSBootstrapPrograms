@@ -1,0 +1,27 @@
+.parent {
+    border: solid 2px orange;
+    width: 500px;
+    height: 300px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: solid 2px blue;
+}
+
+#one {
+    display: inline-block;
+}
+
+#two {
+    display: inline-block;
+}
+
+#three {
+    float: left;
+}
+
+#four {
+    float:left;
+}

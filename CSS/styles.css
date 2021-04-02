@@ -1,0 +1,51 @@
+/* div{color: blue;}
+p{background-color: burlywood;} */
+
+/*.fontClass {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-variant-caps: titling-caps;
+    color: cornflowerblue;
+}
+
+.textClass {
+    text-align: left;
+    text-indent: 40px;
+    text-decoration: underline;
+} */
+/*
+#d1 {
+    border-style: solid;
+    border-left-width: thick;
+    border-top-style: dotted;
+}
+
+#d2 {
+    border: dotted 1px fuchsia;
+} */
+
+/*
+body {
+    background-image: url("google.png");
+    background-repeat: no-repeat;
+    background-position-x: 500px;
+    background-position-y: 300px;
+    background-attachment: fixed;
+    background-size: 500px;
+} */
+
+body{
+    margin: 0px;
+}
+ 
+div {
+border: solid 2px rebeccapurple;
+padding: 30px;
+margin: 20px;
+width: 10%;
+display: inline-block;
+float: left;
+border-radius: 30px;
+}
